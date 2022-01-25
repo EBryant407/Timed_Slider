@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Timed_Slider",
+    "slug": "Timed_Slider",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Timed_Slider"
+}
